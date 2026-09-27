@@ -61,7 +61,8 @@ def operation(choice):
 
 choice=int(input("### ENTER WHICH OPERATION U WANT TO PERFORM ###:\n"))
 print(operation(choice))
-
+print("THANK YOU FOR USING BASIC MATH CALCULATOR!!!")
+print("------ END of THE Calculator -------")
                 
 
 
