@@ -44,4 +44,8 @@ This project is a command-line based calculator built using Python. It helps beg
 
 ```bash
 git clone https://github.com/gagandeepun24-crypto/simple-math-calculator.git
+
+
+Rating section is also implemented kindly rate your experience .. !!
+
  
