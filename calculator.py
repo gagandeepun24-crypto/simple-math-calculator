@@ -63,6 +63,19 @@ choice=int(input("### ENTER WHICH OPERATION U WANT TO PERFORM ###:\n"))
 print(operation(choice))
 print("THANK YOU FOR USING BASIC MATH CALCULATOR!!!")
 print("------ END of THE Calculator -------")
+
+print("please rate your experience on scale of 1-10")
+R=int(input("enter your rating:"))
+if R>=8:
+    print("THANK YOU FOR YOUR RATING!!!")
+    print("WE ARE GLAD THAT YOU LIKED OUR SERVICE!!!")
+elif R>=5 and R<8:
+    print("THANK YOU FOR YOUR RATING!!!")
+    print("WE WILL TRY TO IMPROVE OUR SERVICE!!!")
+elif R>=1 and R<5:
+    print("THANK YOU FOR YOUR RATING!!!")
+    print("SORRY FOR INCONVENIENCE CAUSED!!!")
+
                 
 
 
